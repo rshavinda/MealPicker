@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MealPicker",
+    "slug": "MealPicker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MealPicker"
+}
