@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.mealpicker",
+    package = "com.scorpioline.mealpicker",
 )
 
 android_resource(
     name = "res",
-    package = "com.mealpicker",
+    package = "com.scorpioline.mealpicker",
     res = "src/main/res",
 )
 

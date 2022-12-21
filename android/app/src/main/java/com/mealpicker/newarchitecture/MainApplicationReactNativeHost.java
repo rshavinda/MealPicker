@@ -1,4 +1,4 @@
-package com.mealpicker.newarchitecture;
+package com.scorpioline.mealpicker.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.mealpicker.BuildConfig;
-import com.mealpicker.newarchitecture.components.MainComponentsRegistry;
-import com.mealpicker.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.scorpioline.mealpicker.BuildConfig;
+import com.scorpioline.mealpicker.newarchitecture.components.MainComponentsRegistry;
+import com.scorpioline.mealpicker.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

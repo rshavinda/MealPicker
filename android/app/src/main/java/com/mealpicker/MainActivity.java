@@ -1,4 +1,4 @@
-package com.mealpicker;
+package com.scorpioline.mealpicker;
 
 import android.os.Build;
 import android.os.Bundle;

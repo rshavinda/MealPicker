@@ -1,4 +1,4 @@
-package com.mealpicker.newarchitecture.modules;
+package com.scorpioline.mealpicker.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

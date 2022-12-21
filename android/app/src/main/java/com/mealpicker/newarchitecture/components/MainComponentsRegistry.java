@@ -1,4 +1,4 @@
-package com.mealpicker.newarchitecture.components;
+package com.scorpioline.mealpicker.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
